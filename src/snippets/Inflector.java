@@ -200,7 +200,4 @@ public class Inflector {
         return word;
     }
 
-    public static void main(String[] args) {
-        System.out.println(underscore("lowerCaseAndUnderscoredWord"));
-    }
 }
